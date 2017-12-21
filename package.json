@@ -1,0 +1,13 @@
+{
+  "name": "node-multi-process-message-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "finalhandler": "^1.1.0",
+    "router": "^1.3.2"
+  }
+}
